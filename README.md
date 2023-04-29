@@ -25,7 +25,9 @@
   padding: 15px;
   border-radius: 4px;
 }
-
+.card-footer {
+  margin: 15px 0;
+}
 shadow-sm {
     box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
 }
